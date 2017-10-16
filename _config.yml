@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Michael Xu Photography
+email: michaelxubox@gmail.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Michael Xu is a photographer and cinematographer based in Los Angeles, California. He aims to provide his clients with top-notch work--everything from filming angles, to editing, to post processing"
+keywords: "Film, Portraits, Music"
+skills: "Filmmaker - Guitarist - Portraiture Photographer"
+meta_author: Xu Michael
 
 # Google webmaster tools
 google_verify:
